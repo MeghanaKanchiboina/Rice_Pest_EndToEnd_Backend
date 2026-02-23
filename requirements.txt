@@ -1,6 +1,6 @@
 fastapi
 uvicorn[standard]
-torch==2.2.2
+torch
 torchvision==0.17.2
 ultralytics==8.1.0
 opencv-python-headless
@@ -9,3 +9,4 @@ numpy
 pandas
 scikit-learn
 python-multipart
+
